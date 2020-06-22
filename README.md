@@ -1,5 +1,5 @@
 # binary_trees
-practice on binary tree algorithms 
+binary tree algorithms 
 
 This includes:
 1. Preorder traversal
